@@ -9,6 +9,11 @@
   "orientation": "portrait",
   "icons": [
     {
+      "src": "IMG20250908-WA0017.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
       "src": "icon-72x72.png",
       "sizes": "72x72",
       "type": "image/png"
@@ -51,3 +56,4 @@
   ],
   "categories": ["fashion", "shopping"]
 }
+
